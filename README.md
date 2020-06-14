@@ -2,9 +2,6 @@
 
 <img src="/public/assets/images/screenshot.jpg" width="75%" height="75%">
 <br>
-<br
-<a href="https://budgettracker62020.herokuapp.com">Deployed Application</a>
-<br>
 <br>
 Add functionality to the existing Budget Tracker application to allow for offline access and functionality.
 
